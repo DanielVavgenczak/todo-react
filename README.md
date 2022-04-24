@@ -14,3 +14,12 @@ Criando um simples TODO
 
 Entendo o uso do Context Api e a facilidade de se trabalhar utilizando o react-hoot-forms 
 junto do yup.
+
+
+## List 
+<img src="./todo-git.png”>
+
+
+## Adicionar
+
+<img src="./todo-input-git.png>
