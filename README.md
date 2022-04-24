@@ -21,5 +21,4 @@ junto do yup.
 
 
 ## Adicionar
-
-<img src="./todo-input-git.png>
+![](todo-input-git.png)
