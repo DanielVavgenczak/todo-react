@@ -34,7 +34,7 @@ const Add = () => {
             <form onSubmit={onSubmit}>
                 <div className='input-add'>
                     <label>You todo</label>
-                    <input type="text" {...register("title")} placeholder="Sleeping" name="title"/>
+                    <input type="text" {...register("title")} placeholder="My todo" name="title"/>
                     <ErrorRequire>{errors.title?.message}</ErrorRequire>
                 </div>
                 <button type='submit'>add</button>
