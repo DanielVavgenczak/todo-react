@@ -17,7 +17,7 @@ junto do yup.
 
 
 ## List 
-<img src="./todo-git.png”>
+ ![](todo-git.png)
 
 
 ## Adicionar
